@@ -1,0 +1,47 @@
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor settings
+.vscode/
+.idea/
+*.log
+
+# Node modules (if you ever use Tailwind via npm)
+node_modules/
+
+# Build directories (if you build Tailwind or use bundlers)
+dist/
+build/
+.cache/
+*.tmp
+
+# OS junk
+*.swp
+*.bak
+*.tmp
+
+# Git
+*.orig
+
+# Environment variables
+.env
+.env.*.local
+
+# Ignore backup or compiled files
+*.sass-cache
+*.class
+*.pyc
+*.o
+
+# Ignore zip or archive files
+*.zip
+*.tar
+*.tar.gz
+
+# Ignore temporary image/video exports
+export/
+temp/
+
+
