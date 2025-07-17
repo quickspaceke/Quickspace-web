@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 User-agent: *
 Allow: /
 Sitemap: https://quickspace.co.ke/sitemap.xml
+=======
+User-agent: *
+Allow: /
+Sitemap: https://quickspace.co.ke/sitemap.xml
+>>>>>>> f757c74f5d704dc5fbeae9f122ced77e9481fc1c
